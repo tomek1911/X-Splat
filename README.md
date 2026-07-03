@@ -1,4 +1,5 @@
 # X-Splat: Gaussian Splatting for 3D Dental Volume Generation from a Single Panoramic Radiograph
+[![arXiv](https://img.shields.io/badge/arXiv-2607.02099-b31b1b.svg)](https://arxiv.org/abs/2607.02099)
 
 > **Paper under review.** Code and pretrained checkpoints will be released upon acceptance.
 
@@ -29,6 +30,7 @@ Generating a 3D dental volume from a single PXR is highly underdetermined: panor
 ---
 
 ## Citation
+[![arXiv](https://img.shields.io/badge/arXiv-2607.02099-b31b1b.svg)](https://arxiv.org/abs/2607.02099)
 
 If you find this work useful, please cite:
 
